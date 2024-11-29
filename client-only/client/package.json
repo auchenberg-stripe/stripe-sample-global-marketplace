@@ -13,7 +13,7 @@
     "express": "^4.17.1",
     "gravatar": "^1.8.0",
     "js-cookie": "^2.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lowdb": "^1.0.0",
     "micro-redirect": "^1.0.0",
     "moment": "^2.24.0",
